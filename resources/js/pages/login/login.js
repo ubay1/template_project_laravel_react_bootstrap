@@ -119,7 +119,7 @@ function Login() {
 							history.push('/')
 						}}
 					>
-						{/* <BsArrowLeftShort size={25}/>  */}
+						<BsArrowLeftShort size={25}/> 
 						kembali
 					</button>
 
